@@ -1,6 +1,5 @@
 #Yanira Manzano
 #11/11/2019
-#Car Object Exercise
 
 class Car_details:
     company = "Acura"
